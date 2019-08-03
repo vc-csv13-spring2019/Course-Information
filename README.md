@@ -1,24 +1,24 @@
-# Syllabus - Spring 2019 CS V13 Object Oriented Programming
+# Syllabus - fall 2019 CS V13 Object Oriented Programming
 
-[Wiki](https://github.com/vc-csv113-spring2019/Course-Information/wiki)
+[Wiki](https://github.com/vc-csv13/Course-Information/wiki)
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6481 (maybe)  
+Phone: (805) 289-6489  
 Office: #SCI-356  
-Office Hours: TR 10:00 AM - 11:50AM
+Office Hours: MW 8:00 AM - 10:00AM & TR 10:00 AM - 12:00PM
 
 ### Description:  
 
 his course introduces the concepts of object-oriented programming to students with a background in the procedural paradigm. The course begins with a review of control structures and data types, with emphasis on structured data types and array processing. It then moves on to introduce the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Other topics include an overview of programming language principles, simple analysis of algorithms, basic searching and sorting techniques, and an introduction to software engineering issues.
 
-[Canvas Site](https://vcccd.instructure.com/courses/14844)
+[Canvas Site](https://vcccd.instructure.com/courses/19375)
 
 ### Lecture:
 
-TR 5:00 PM - 6:50 PM (SCI-226)
+TR 8:00 AM - 9:50 AM (SCI-226)
 
 ### Textbook: 
 
@@ -26,7 +26,19 @@ Absolute C++, 6th Edition, Walter Savitch and Kenrick Mock. ISBN: 978-0-133-9713
 
 ### Student Learning Outcomes:
 
-Coming Soon!
+**CSLO1** - Utilize abstraction to create objects of Abstract Data Types (ADT) and constructors, accessors, mutators, and facilitators of the object created using C++ programming constructs.
+
+**CSLO2** - Define the concepts of OOP, the purpose and usage principles of inheritance, polymorphism, encapsulation, method overloading, and method overriding as well as multi-threading for animations and graphics.
+
+**CSLO3** - Apply the principles of OOP on single, double and multi-dimensional arrays of alphanumeric, character, string, numeric and abstract data types.
+
+**CSLO4** - Methodologically construct objects that show the principles of information hiding, function overloading, function  overriding, polymorphism, encapsulation, reusability within the parameters of C++ programming syntax and create instances of the object for...
+
+### Final Exam
+
+The final exam will be held in the usual class room, SCI-226, from 8:00AM to 10:00AM on Tuesday, December 17, 2019. Bring the usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you need a calculator, you're probably doing something wrong.
+
+Remember, the preceding Thursday, December 12, 2019, there is no class or lecture.
 
 ### Grading:
 
